@@ -7,3 +7,5 @@ items:
     name: Staff
   - link: /about.html
     name: About
+  - name: Samsing
+    link: /samsing.html
